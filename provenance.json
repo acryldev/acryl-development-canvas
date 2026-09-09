@@ -1,0 +1,9 @@
+{
+  "extractedAt": "2026-09-09",
+  "acryl": {
+    "repository": "https://github.com/acryldev/acryl",
+    "sourcePackage": "acryl-development-canvas",
+    "sourcePath": "acryl-development-canvas/"
+  },
+  "strategy": "Copy-only extraction from the ACRYL workspace. The source package remains in ACRYL unchanged; this repository publishes the same Host and Client Cordis plugin as an independently installable package."
+}
