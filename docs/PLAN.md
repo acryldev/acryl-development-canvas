@@ -24,7 +24,8 @@ declaration effect owns the slot registration, styles, and client handles.
 ## Configuration and composition
 
 The published `dsh.bundle.patch` inserts the stable
-`desktop-development-canvas` Loader row. The row is ordinary Cordis desired
+`acryl-development-canvas` Loader row (matching the package name, per this
+codebase's Loader row id naming rule). The row is ordinary Cordis desired
 composition and supports disable/reload through the host Loader.
 
 ## Events and durability
